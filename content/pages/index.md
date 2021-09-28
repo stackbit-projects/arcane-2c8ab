@@ -27,7 +27,7 @@ sections:
     title: All in one platform
     subtitle: In a Nutsheel
     features:
-      - title: A uni
+      - title: A unified crypto wealth management experience
         subtitle: lorem-ipsum
         content: >
           ## Lorem ipsum
