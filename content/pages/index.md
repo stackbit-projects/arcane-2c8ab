@@ -26,7 +26,7 @@ sections:
   - section_id: Platform
     features:
       - content: >
-          #  A unified crypto wealth management experience
+          ## A unified crypto wealth management experience
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
