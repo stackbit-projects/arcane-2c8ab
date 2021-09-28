@@ -9,7 +9,7 @@ sections:
       management tools into one seamless experience controlled by a single app
       that you can use on any device.
     actions:
-      - label: App Store
+      - label: Get Started
         url: /pricing
         style: primary
     image: images/hero.svg
