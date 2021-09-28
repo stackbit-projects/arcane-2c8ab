@@ -128,7 +128,7 @@ sections:
   - type: features_section
     features:
       - content: |
-          #####
+          ##### Lorem hahaha
         actions:
           - label: Learn More
             url: /pricing
