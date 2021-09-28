@@ -128,7 +128,7 @@ sections:
   - type: features_section
     features:
       - title: Learn
-        subtitle: "Gain insight from industry experts\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_at Arcane Research"
+        subtitle: Gain insight from industry experts at Arcane Research
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
