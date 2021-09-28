@@ -175,6 +175,7 @@ sections:
         align: left
         image: /images/hero.svg
         title: Invest
+        subtitle: Build long term wealth with our actively managed crypto fund
     feature_padding_vert: large
     align: center
     background_color: none
