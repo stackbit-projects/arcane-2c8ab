@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
+    title: Build wealth in crypto with confidence
     subtitle: Stop switching between calendars and task lists!
     content: >-
       App Land combines your work and home calendars with all your task
