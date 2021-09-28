@@ -140,7 +140,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Arcane. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_bCreate yours <a href=\"https://app.stackbit.com/create?theme=app&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Arcane. All rights reserved. Made with love in Oslo."
     },
     "domain": "https://arcane-2c8ab.netlify.app"
 }
