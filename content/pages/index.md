@@ -142,6 +142,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
+        title: Learn
       - title: Trade
         subtitle: Always be in control
         content: >-
