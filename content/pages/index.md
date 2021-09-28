@@ -145,7 +145,7 @@ sections:
         title: Learn
         subtitle: Gain insight from industry experts at Arcane Research
       - title: Trade
-        subtitle: Always be in control
+        subtitle: Buy and sell crypto over the counter or on exchange
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
           groceries to buy and dry cleaning to pick up. Get all your tasks in
