@@ -24,7 +24,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - section_id: Platform
-    subtitle: In a Nutsheel
     features:
       - title: A unified crypto wealth management experience
         subtitle: lorem-ipsum
