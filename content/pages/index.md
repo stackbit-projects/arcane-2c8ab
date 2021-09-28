@@ -160,16 +160,12 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-      - content: >
+      - content: |
           # Invest
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+          Build long term wealth with our actively managed crypto fund
 
           *   Lorem ipsum
-
           *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
