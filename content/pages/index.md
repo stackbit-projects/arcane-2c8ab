@@ -27,7 +27,7 @@ sections:
     title: All in One Platform
     subtitle: In a Nutsheel
     features:
-      - title: lorem-ipsum
+      - title: A uni
         subtitle: lorem-ipsum
         content: >
           ## Lorem ipsum
