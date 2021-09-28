@@ -63,7 +63,7 @@
         "secondary_nav_title": "Team",
         "secondary_nav_links": [
             {
-                "label": "Carrear",
+                "label": "Team",
                 "url": "/blog/category/news",
                 "style": "link"
             },
