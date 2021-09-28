@@ -23,7 +23,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - section_id: lorem-ipsum
+  - section_id: Platform
     title: One Platform
     subtitle: In a Nutsheel
     features: []
