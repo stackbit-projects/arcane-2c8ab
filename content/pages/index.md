@@ -44,6 +44,7 @@ sections:
         media_position: right
         media_width: fifty
         align: left
+        image: /images/icon-1.svg
     feature_padding_vert: large
     align: center
     padding_top: large
