@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - section_id: Platform
-    title: All in One Platform
+    title: All in one platform
     subtitle: In a Nutsheel
     features:
       - title: A uni
