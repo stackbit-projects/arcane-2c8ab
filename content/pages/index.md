@@ -143,6 +143,7 @@ sections:
         media_position: left
         media_width: fifty
         title: Learn
+        subtitle: Gain insight from industry experts at Arcane Research
       - title: Trade
         subtitle: Always be in control
         content: >-
