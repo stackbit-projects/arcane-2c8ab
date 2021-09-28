@@ -25,7 +25,7 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: In a Nutsheel
     features: []
     feature_padding_vert: medium
     align: center
