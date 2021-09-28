@@ -127,8 +127,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - subtitle: Gain insight from industry experts at Arcane Research
-        content: |
+      - content: |
           # Learn
 
           Gain insight from industry experts at Arcane Research
