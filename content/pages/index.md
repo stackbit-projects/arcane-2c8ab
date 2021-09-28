@@ -129,9 +129,10 @@ sections:
     features:
       - title: Learn
         subtitle: Gain insight from industry experts at Arcane Research
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: |
+          # Learn
+
+          Gain insight from industry experts at Arcane Research
         actions:
           - label: Learn More
             url: /pricing
