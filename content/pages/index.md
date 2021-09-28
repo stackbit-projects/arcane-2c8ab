@@ -130,7 +130,7 @@ sections:
       - content: |
           # Learn
 
-          ### Gain insight from industry experts at Arcane Research
+          ##### Gain insight from industry experts at Arcane Research
         actions:
           - label: Learn More
             url: /pricing
