@@ -26,7 +26,6 @@ sections:
   - section_id: Platform
     features:
       - title: A unified crypto wealth management experience
-        subtitle: lorem-ipsum
         content: >
           ## Lorem ipsum
 
