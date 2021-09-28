@@ -174,6 +174,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/hero.svg
+        title: Invest
     feature_padding_vert: large
     align: center
     background_color: none
