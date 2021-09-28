@@ -128,9 +128,7 @@ sections:
   - type: features_section
     features:
       - content: |
-          # Learn
-
-          ##### Gain insight from industry experts at Arcane Research
+          #####
         actions:
           - label: Learn More
             url: /pricing
